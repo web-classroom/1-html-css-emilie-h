@@ -137,6 +137,10 @@ section {
 	gap: 16px;
 	flex: 1;
 }
+#player-track img {
+	height: 100%;
+	width: auto;
+}
 
 
 #player-icons {
