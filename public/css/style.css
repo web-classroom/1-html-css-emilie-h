@@ -4,31 +4,31 @@
 	--grey-400: #9CA3AF;
 }
 
-body1 {
+.body1 {
 	height: 100%;
 	font-size: 16px;
 	line-height: 1.5;
 }
 
-body2 {
+.body2 {
 	height: 100%;
 	font-size: 14px;
 	line-height: 1.5;
 }
 
-subtitle1 {
+.subtitle1 {
 	font-weight: bold;
 	font-size: 16px;
 	line-height: 1.5;
 }
 
-subtitle2 {
+.subtitle2 {
 	font-weight: bold;
 	font-size: 14px;
 	line-height: 1.5;
 }
 
-overline {
+.overline {
 	font-size: 12px;
 	line-height: 18px;
 }
